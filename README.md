@@ -124,7 +124,7 @@ Capture and analyze HTTP login traffic using Wireshark.
 
 ### Note
 
-The lab instruction required using my own name as the username and password so that the credentials would appear in the captured Wireshark packets. The purpose was to demonstrate how HTTP transmits authentication data in plaintext. Although the login attempt was unsuccessful, Wireshark successfully captured the submitted credentials, highlighting the security risks of sending sensitive information over an unencrypted HTTP connection.
+The lab instruction required using my name as the username and password so that the credentials would appear in the captured Wireshark packets. The purpose was to demonstrate how HTTP transmits authentication data in plaintext. Although the login attempt was unsuccessful, Wireshark successfully captured the submitted credentials, highlighting the security risks of sending sensitive information over an unencrypted HTTP connection.
 
 
 ### Wireshark Filter
